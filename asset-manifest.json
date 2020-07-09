@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/TwitchTV-Clone/static/js/main.e936238e.chunk.js",
+    "main.js.map": "/TwitchTV-Clone/static/js/main.e936238e.chunk.js.map",
+    "runtime-main.js": "/TwitchTV-Clone/static/js/runtime-main.892003bc.js",
+    "runtime-main.js.map": "/TwitchTV-Clone/static/js/runtime-main.892003bc.js.map",
+    "static/js/2.9b278231.chunk.js": "/TwitchTV-Clone/static/js/2.9b278231.chunk.js",
+    "static/js/2.9b278231.chunk.js.map": "/TwitchTV-Clone/static/js/2.9b278231.chunk.js.map",
+    "index.html": "/TwitchTV-Clone/index.html",
+    "precache-manifest.90df344b6d18bf33e0f54ae3fd99106c.js": "/TwitchTV-Clone/precache-manifest.90df344b6d18bf33e0f54ae3fd99106c.js",
+    "service-worker.js": "/TwitchTV-Clone/service-worker.js",
+    "static/js/2.9b278231.chunk.js.LICENSE.txt": "/TwitchTV-Clone/static/js/2.9b278231.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892003bc.js",
+    "static/js/2.9b278231.chunk.js",
+    "static/js/main.e936238e.chunk.js"
+  ]
+}
